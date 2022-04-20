@@ -4,10 +4,10 @@
 
 -   `RPG-Game` is a RPG game called **Go Thru the Puzzles** developed by a group of 4, team members are `Yichao Wang (me)`, `Yiding Tao`, `Anh Le`, `Kien Ta`
 
-    -   We develop using **Unity(C#)** and do source control using **Plastic SCM**,  files are uploaded to git after the completion of the game
+    -   We develop using **Unity(C#)** and do source control using **Plastic SCM**,  files are uploaded to **git** after the completion of the game
 
     -   See `Wiki Page` for more info
-    -   Feel Free to play this game [here](https://yidingtao.itch.io/cse450a-finalproject)
+    -   Feel Free to **play** [here](https://yidingtao.itch.io/cse450a-finalproject)
 
     
 
