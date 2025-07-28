@@ -7,7 +7,7 @@
     -   We develop using **Unity(C#)** and do source control using **Plastic SCM**,  files are uploaded to **git** after the completion of the game
 
     -   See `Wiki Page` for more info
-    -   Feel Free to **play** [here](https://yidingtao.itch.io/cse450a-finalproject)
+    -   Feel Free to **play** [here](https://yidingtao.itch.io/gothruthepuzzles)
 
     
 
